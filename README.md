@@ -4,8 +4,6 @@
 
 <img align="right" width="250px" src="https://user-images.githubusercontent.com/90917379/229302552-1afbc53d-c6ca-4c6b-9b8f-87d70404fe6f.png" />
 
-<br>
-
 <h2>Quem sou eu?</h2>
 <p>Olá, meu nome é Mikaeli Pereira Sampaio, tenho 18 anos e sou desenvolvedora Front-End. No início de 2023, iniciei meus estudos em programação no curso completo do DevClub FullStack PRO. Atualmente tenho ampliado minhas experiências em desenvolvimento Front-End de sistema web, manutenções e aplicações. </p>
 
@@ -23,7 +21,7 @@
 
 <h2>Contatos:</h2>
 
-<div> 
+<div align="center"> 
   <a href="mailto:mikaasampaio6@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/mikaeli-pereira/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
   
