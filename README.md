@@ -30,7 +30,8 @@
 <h2>Portfólio</h2>
 
 <div align="center">
-<a href="https://mikasampaio.github.io/PORTFOLIO/#project"</a>
+
+<a href="https://mikasampaio.github.io/PORTFOLIO/"><img width="250px" src="https://user-images.githubusercontent.com/90917379/229314638-bdcf3772-cec3-4078-b70a-f1a1b408fe44.png"/></a>
 </div>
 
 <br>
