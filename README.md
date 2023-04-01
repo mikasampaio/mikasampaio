@@ -2,7 +2,7 @@
 
 <h1 align="center">SEJAM BEM-VINDOS AO MEU GITHUB!</h1>
 
-<img align="right" width="310px" src="https://user-images.githubusercontent.com/90917379/229302552-1afbc53d-c6ca-4c6b-9b8f-87d70404fe6f.png" />
+<img align="right" width="250px" src="https://user-images.githubusercontent.com/90917379/229302552-1afbc53d-c6ca-4c6b-9b8f-87d70404fe6f.png" />
 
 <br>
 
