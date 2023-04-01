@@ -21,19 +21,19 @@
 
 <br>
 
-<div align="center">
-<img  height="200em" src="https://github-readme-stats.vercel.app/api?username=mikasampaio&show_icons=true&theme=radical"/>
-<img  height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikasampaio&layout=compact&langs_count=16&theme=radical"/>
-</div>
-
-<br>
-
 <h2>Contatos:</h2>
 
 <div> 
   <a href="mailto:mikaasampaio6@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/mikaeli-pereira/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
   
+</div>
+
+<br>
+
+<div align="center">
+<img  height="200em" src="https://github-readme-stats.vercel.app/api?username=mikasampaio&show_icons=true&theme=radical"/>
+<img  height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikasampaio&layout=compact&langs_count=16&theme=radical"/>
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00A791&height=120&section=footer"/>
