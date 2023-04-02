@@ -37,8 +37,8 @@
 <br>
 
 <div align="center">
-<img  height="200em" src="https://github-readme-stats.vercel.app/api?username=mikasampaio&show_icons=true&theme=radical"/>
-<img  height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikasampaio&layout=compact&langs_count=16&theme=radical"/>
+<img  height="170em" src="https://github-readme-stats.vercel.app/api?username=mikasampaio&show_icons=true&theme=radical"/>
+<img  height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikasampaio&layout=compact&langs_count=16&theme=radical"/>
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00A791&height=120&section=footer"/>
