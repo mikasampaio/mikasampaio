@@ -16,17 +16,25 @@ Habilidade para trabalhar em equipe e colaborar com desenvolvedores e designers,
 
 <br>
 
-<h2>Tenho experiências com:</h2>
-<div align="center" style="display: inline_block"><br>
-  <img alt="MIKA-HTML" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img alt="MIKA-CSS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
- <img alt="MIKA-Js" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img alt="MIKA-GIT" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Profissional com experiência em:</h2></summary>
+  </ul>
 </div>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nodejs,express,sequelize,postgresql,mongodb,docker,html,css,js,linux,git,vscode&perline=14" />
+  </a>
+</p>
 
 <br>
 
-<h2>Contatos:</h2>
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Entre em contato:</h2></summary>
+  </ul>
+</div>
 
 <div align="center"> 
   <a href="mailto:mikaasampaio6@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -34,7 +42,11 @@ Habilidade para trabalhar em equipe e colaborar com desenvolvedores e designers,
   
 </div>
 
-<h2>Portfólio</h2>
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Portfólio:</h2></summary>
+  </ul>
+</div>
 
 <div align="center">
 
