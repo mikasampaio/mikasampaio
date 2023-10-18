@@ -5,7 +5,14 @@
 <img align="right" width="250px" src="https://user-images.githubusercontent.com/90917379/229302552-1afbc53d-c6ca-4c6b-9b8f-87d70404fe6f.png" />
 
 <h2>Quem sou eu?</h2>
-<p>Olá, meu nome é Mikaeli Pereira Sampaio, tenho 18 anos e sou desenvolvedora Front-End. No início de 2023, iniciei meus estudos em programação no curso completo do DevClub FullStack PRO. Atualmente tenho ampliado minhas experiências em desenvolvimento Front-End de sistema web, manutenções e aplicações. </p>
+<p>
+Olá, meu nome é Mikaeli Pereira Sampaio, tenho 19 anos e sou uma profissional com experiência em desenvolvimento de sistemas tanto no Front-End quanto no Back-end. 
+
+No Front-End, possui experiência em React.JS, JavaScript, HTML e CSS, abrangendo conhecimentos com Styled-Components, Componentes reutilizáveis, Axios, React Hooks, integração e consumo de API’s e API rest e criação de interfaces de usuário responsivas.
+
+No Back-End, possui experiência em Node.js, banco de dados relacional (PostgreSQL) e não relacional (MongoDB), Docker e Docker-compose. 
+Habilidade para trabalhar em equipe e colaborar com desenvolvedores e designers, tanto quanto para dispor de iniciativa com o intuito de promover resolução de problemas e comunicação assertiva.
+</p>
 
 <br>
 
