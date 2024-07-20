@@ -6,41 +6,32 @@
 
 <h2>Quem sou eu?</h2>
 <p>
-Olá, meu nome é Mikaeli Pereira Sampaio, tenho 19 anos e sou uma profissional com experiência em desenvolvimento de sistemas tanto no Front-End quanto no Back-end. 
+Olá, eu sou a Mikaeli! Sou desenvolvedora de software apaixonado por criar soluções eficientes. Com uma sólida experiência em diversas tecnologias, busco sempre aprimorar minhas habilidades e aprender novas ferramentas que possam contribuir para o desenvolvimento de projetos de alta qualidade. Ao longo da minha carreira, tive a oportunidade de trabalhar em diversos projetos que exigiram o uso de diferentes stacks de desenvolvimento.
 
-No Front-End, possui experiência em React.JS, JavaScript, HTML e CSS, abrangendo conhecimentos com Styled-Components, Componentes reutilizáveis, Axios, React Hooks, integração e consumo de API’s e API rest e criação de interfaces de usuário responsivas.
+No frontend, tenho experiência com React para desenvolver interfaces dinâmicas e responsivas. Além disso, trabalho com o TypeScript para adicionar tipagem estática ao JavaScript, o que ajuda a prevenir erros e melhorar a manutenção do código. Utilizo Next.js, um framework para React que permite a criação de aplicações com renderização no lado do servidor (SSR) e estáticas. Tenho experiência em estruturar conteúdo web com HTML, estilizar interfaces com CSS, focando em responsividade e acessibilidade, e em programação JavaScript, orientada a eventos e manipulação do DOM para criar experiências interativas.
 
-No Back-End, possui experiência em Node.js, banco de dados relacional (PostgreSQL) e não relacional (MongoDB), Docker e Docker-compose. 
-Habilidade para trabalhar em equipe e colaborar com desenvolvedores e designers, tanto quanto para dispor de iniciativa com o intuito de promover resolução de problemas e comunicação assertiva.
+No backend, crio aplicações com Node.js, usando JavaScript no servidor. Utilizo Express, um framework minimalista para Node.js, que facilita a criação de APIs RESTful. Uso Sequelize como ORM, facilitando a interação com bancos de dados SQL, principalmente PostgreSQL. Além disso, possuo experiência com MongoDB, um banco de dados NoSQL que permite flexibilidade no armazenamento de dados não estruturados.
+
+Para gerenciamento de containers, utilizo Docker, facilitando o desenvolvimento, testes e implantação de aplicações em ambientes isolados e consistentes.
+
+Estou sempre aberto para discutir novas oportunidades e colaborar em projetos interessantes! Sinta-se à vontade para me contatar pelo [LinkedIn](https://www.linkedin.com/in/mikaeli-pereira/) ou pelo [Email](mailto:mikaasampaio6@gmail.com).
 </p>
 
 <br>
 
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Profissional com experiência em:</h2></summary>
+    <summary><h2 style="display: inline-block">Tecnologias que possuo experiência:</h2></summary>
   </ul>
 </div>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nodejs,express,sequelize,postgresql,mongodb,docker,html,css,js,linux,git,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=react,typescript,next,nodejs,express,sequelize,postgresql,mongodb,docker,html,css,js,linux,git,vscode&perline=14" />
   </a>
 </p>
 
 <br>
-
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Entre em contato:</h2></summary>
-  </ul>
-</div>
-
-<div align="center"> 
-  <a href="mailto:mikaasampaio6@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/mikaeli-pereira/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
-  
-</div>
 
 <div id="user-content-toc">
   <ul align="center">
