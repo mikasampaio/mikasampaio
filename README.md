@@ -11,7 +11,7 @@ Olá, eu sou a Mikaeli! Desenvolvedora Mobile e Front-End com mais de 2 anos de 
 <br><br>
 Também tenho experiência full-stack com Node.js, Express, Sequelize, PostgreSQL e MongoDB, além de Docker para containerização.
 <br><br>
-Estou sempre aberta a discutir novas oportunidades e colaborar em projetos interessantes! Fale comigo pelo <a href="https://www.linkedin.com/in/mikaelipereira/">LinkedIn</a> ou por <a href="mailto:mikaasampaio6@gmail.com">E-mail</a>.
+Estou sempre aberta a discutir novas oportunidades e colaborar em projetos interessantes! Fale comigo pelo <a href="https://www.linkedin.com/in/mikaeli-pereira/">LinkedIn</a> ou por <a href="mailto:mikaasampaio6@gmail.com">E-mail</a>.
 </p>
 
 <br>
